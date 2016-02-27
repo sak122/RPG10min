@@ -1,0 +1,13 @@
+c:\users\花聖萌\documents\visual studio 2015\Projects\RPG10min\RPG10min\bin\Debug\RPG10min.exe.config
+c:\users\花聖萌\documents\visual studio 2015\Projects\RPG10min\RPG10min\bin\Debug\RPG10min.exe
+c:\users\花聖萌\documents\visual studio 2015\Projects\RPG10min\RPG10min\bin\Debug\RPG10min.pdb
+c:\users\花聖萌\documents\visual studio 2015\Projects\RPG10min\RPG10min\bin\Debug\DxLibDotNet.dll
+c:\users\花聖萌\documents\visual studio 2015\Projects\RPG10min\RPG10min\obj\Debug\RPG10min.exe
+c:\users\花聖萌\documents\visual studio 2015\Projects\RPG10min\RPG10min\obj\Debug\RPG10min.pdb
+c:\users\花聖萌\documents\visual studio 2015\Projects\RPG10min\RPG10min\obj\Debug\RPG10min.csprojResolveAssemblyReference.cache
+C:\Users\花聖萌\Documents\Visual Studio 2015\Projects\RPG10min\Program\RPG10min\bin\Debug\RPG10min.exe.config
+C:\Users\花聖萌\Documents\Visual Studio 2015\Projects\RPG10min\Program\RPG10min\obj\Debug\RPG10min.exe
+C:\Users\花聖萌\Documents\Visual Studio 2015\Projects\RPG10min\Program\RPG10min\obj\Debug\RPG10min.pdb
+C:\Users\花聖萌\Documents\Visual Studio 2015\Projects\RPG10min\Program\RPG10min\obj\Debug\RPG10min.csprojResolveAssemblyReference.cache
+C:\Users\花聖萌\Documents\Visual Studio 2015\Projects\RPG10min\Program\RPG10min\bin\Debug\RPG10min.exe
+C:\Users\花聖萌\Documents\Visual Studio 2015\Projects\RPG10min\Program\RPG10min\bin\Debug\RPG10min.pdb

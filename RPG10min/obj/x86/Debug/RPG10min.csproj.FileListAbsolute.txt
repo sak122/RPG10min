@@ -1,0 +1,2 @@
+c:\users\花聖萌\documents\visual studio 2015\Projects\RPG10min\RPG10min\bin\x86\Debug\RPG10min.exe.config
+c:\users\花聖萌\documents\visual studio 2015\Projects\RPG10min\RPG10min\obj\x86\Debug\RPG10min.csprojResolveAssemblyReference.cache
